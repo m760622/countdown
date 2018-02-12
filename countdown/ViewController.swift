@@ -84,6 +84,7 @@ class ViewController: UIViewController {
         catch
         {
             //ERROR  det är ny
+//             var för det
         }
     
     }
